@@ -1,73 +1,71 @@
-
 Artificial Intelligence Coursework Portfolio
 
-This repository contains projects and exercises completed as part of coursework in Artificial Intelligence, demonstrating my understanding and practical skills in various areas of AI, including Human-Centred Design, Supervised Learning, Reasoning Techniques, Expert Systems, Markov Decision Processes, Knowledge Representation, and Semantic Web Development.
+This repository contains projects and exercises completed as part of my coursework in Artificial Intelligence. It demonstrates my understanding and practical skills across various AI domains, including Human-Centred Design, Supervised Learning, Reasoning Techniques, Expert Systems, Markov Decision Processes, Knowledge Representation, Semantic Web Development, and AI Ethics.
 
 Project Descriptions
 
-1. Human-Centred AI Design
-	•	Task: Designed a user interface (UI) for an AI-powered system using Figma, emphasizing user-friendliness, accessibility, and trustworthiness.
-	•	Focus: Ensured the interface transparently communicates the system’s capabilities, limits, and rationale behind decisions to foster user confidence.
+1. Essay on AI Ethics
+	•	Task: Authored a comprehensive essay (1000 words) examining the ethical implications of artificial intelligence on society.
+	•	Key Topics Covered:
+	•	Privacy and data protection issues arising from AI.
+	•	Algorithmic bias and fairness concerns.
+	•	The socioeconomic impact, including job displacement due to automation.
+	•	Ethical considerations in AI-driven decision-making.
+	•	Outcome: Demonstrated a nuanced understanding of ethical challenges and proposed strategies for ethically responsible AI deployment.
 
-2. Supervised Learning: Spam Detection
-	•	Task: Performed binary classification for spam detection using supervised learning with a real-world dataset.
-	•	Tools & Techniques: Python, Scikit-learn (Logistic Regression/Naive Bayes classifier), Pandas for data analysis.
-	•	Outcome: Demonstrated practical knowledge in dataset exploration, feature engineering, model training, and evaluation (accuracy, precision, recall).
+2. Human-Centred AI Design
+	•	Task: Designed a user interface (UI) for an AI-powered system using Figma, emphasizing usability, transparency, accessibility, and trust-building.
+	•	Focus: Clearly communicated AI capabilities and limitations, ensuring user-friendly interactions and fostering confidence in AI technology.
 
-3. Reasoning and Problem-Solving Techniques
-	•	Task: Compared and contrasted Game Theory and Bayesian Reasoning.
-	•	Analysis: Clearly outlined core principles, applications, strengths, and weaknesses of each method.
-	•	Outcome: Provided insightful examples on how each reasoning approach could be effectively applied to AI-driven decision-making problems.
+3. Supervised Learning: Spam Detection
+	•	Task: Implemented a binary classification model for spam detection utilizing supervised learning techniques.
+	•	Tools & Techniques: Python, Scikit-learn (Logistic Regression/Naive Bayes), Pandas, NumPy.
+	•	Outcome: Conducted data preprocessing, exploratory analysis, model training, and performance evaluation (accuracy, precision, recall, confusion matrix).
 
-4. Expert System Development: Medical Diagnosis
-	•	Task: Developed a rule-based expert system for basic medical diagnosis.
-	•	Implementation: Used rule-based inference mechanisms to associate symptoms with potential diagnoses.
-	•	Outcome: Illustrated knowledge of expert system architecture, rule formulation, and reasoning logic.
+4. Reasoning and Problem-Solving Techniques
+	•	Task: Compared and critically analyzed two reasoning methods: Game Theory and Bayesian Reasoning.
+	•	Analysis: Explained foundational principles, applications, and limitations of each method.
+	•	Applications: Discussed practical scenarios illustrating effective usage of each reasoning technique in AI-driven problem-solving.
 
-5. Markov Decision Process (MDP)
-	•	Task: Created an MDP model for a robot navigating a grid environment.
-	•	Elements: Defined states, actions, transition probabilities, and reward functions clearly.
-	•	Solution Approach: Employed Dynamic Programming to compute optimal policies and state values.
-	•	Outcome: Demonstrated proficiency in formulating and solving MDP problems.
+5. Expert System Development: Medical Diagnosis
+	•	Task: Developed a rule-based expert system to perform basic medical diagnosis.
+	•	Implementation: Formulated diagnostic rules connecting symptoms to possible conditions.
+	•	Outcome: Demonstrated proficiency in expert system concepts, inference mechanisms, and practical rule formulation.
 
-6. Knowledge Representation
-	•	Task: Explored semantic networks and frames as knowledge representation techniques.
-	•	Comparison: Evaluated strengths and weaknesses of each technique through detailed scenarios.
-	•	Applications: Provided practical scenarios where semantic networks and frames were best suited.
+6. Markov Decision Process (MDP)
+	•	Task: Created an MDP framework modeling a robot’s navigation through a grid environment.
+	•	Elements Defined: Clearly outlined states, actions, transition probabilities, and rewards.
+	•	Solution Approach: Solved the MDP using dynamic programming methods (value and policy iteration).
+	•	Outcome: Gained hands-on experience in structured decision-making and dynamic programming algorithms.
 
-7. Semantic Web Development
-	•	Task: Explained the concept and evolution of Semantic Web (Web 2.0, 3.0, 4.0), and developed a conceptual Semantic Web project.
-	•	Conceptual Design:
+7. Knowledge Representation
+	•	Task: Analyzed and contrasted semantic networks and frames as methods for knowledge representation.
+	•	Comparison: Identified strengths, weaknesses, and suitable application contexts for each method.
+	•	Scenarios Provided: Illustrated the applicability of semantic networks and frames through practical examples.
+
+8. Semantic Web Development
+	•	Task: Explained the evolution and concept of the Semantic Web (Web 2.0, Web 3.0, and Web 4.0), including practical conceptual design.
+	•	Conceptual Semantic Web Design:
 	•	Domain: Movie Database
-	•	Entities: Movies, Actors, Directors
-	•	Ontology & Relationships: Developed a simple ontology demonstrating relationships and properties between entities.
-	•	Implementation: Created RDF triples representing meaningful connections between entities, including concrete example instances.
-
-Repository Structure
-
-├── Human-Centred AI Design/
-├── Supervised Learning/
-├── Reasoning and Problem-Solving Techniques/
-├── Expert System Development/
-├── Markov Decision Process (MDP)/
-├── Knowledge Representation/
-├── Semantic Web Development/
-└── Overview report.pdf
+	•	Entities Defined: Movies, Actors, Directors
+	•	Ontology Creation: Developed a simple ontology clearly defining entity relationships.
+	•	Example Instances: Presented 3 illustrative RDF triples per entity type, highlighting meaningful relationships.
 
 Skills Demonstrated
+	•	AI Ethics & Responsible Innovation
 	•	UI/UX Design (Figma)
-	•	Machine Learning & Data Analysis (Python, scikit-learn)
-	•	Logical & Probabilistic Reasoning
-	•	Expert System Implementation
-	•	Decision-making models (MDP, Dynamic Programming)
-	•	Ontology Design and RDF Triples (Semantic Web)
+	•	Machine Learning and Data Analysis
+	•	Logical, Probabilistic, and Strategic Reasoning
+	•	Expert System Development
+	•	Decision-making under uncertainty (MDP)
+	•	Ontology Development and Semantic Web
 
 Tools and Technologies
-	•	Python
+	•	Python, scikit-learn, Pandas, NumPy
 	•	Figma
-	•	scikit-learn, Pandas, NumPy
-	•	RDF/Ontology frameworks
+	•	RDF, Ontology frameworks
+	•	Dynamic Programming techniques
 
-Note: Each project directory contains detailed reports, practical implementations, and documentation reflecting individual efforts, methodologies, and insights acquired throughout the coursework.
+Note: Each project folder includes detailed reports, source code, and relevant documentation, demonstrating comprehensive theoretical and practical understanding.
 
-This portfolio showcases my practical skills and theoretical knowledge acquired during my university studies, highlighting readiness for professional or academic challenges in AI and related fields.
+This portfolio highlights my ability to engage with complex AI concepts and my readiness to contribute effectively in both academic and professional settings.
