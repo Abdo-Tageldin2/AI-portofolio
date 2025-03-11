@@ -1,4 +1,4 @@
-Artificial Intelligence Coursework Portfolio
+Artificial Intelligence Coursework Portfolio 
 
 This repository contains projects and exercises completed as part of my coursework in Artificial Intelligence. It demonstrates my understanding and practical skills across various AI domains, including Human-Centred Design, Supervised Learning, Reasoning Techniques, Expert Systems, Markov Decision Processes, Knowledge Representation, Semantic Web Development, and AI Ethics.
 
